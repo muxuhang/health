@@ -1,0 +1,82 @@
+{
+  "data":{
+    "title":"健康大数据展示",
+    "HealthPanel":{
+      "title":"健康板块",
+      "tip":"全年共累计建档人数",
+      "total":10243,
+      "list":[3000, 4000, 5000, 6000, 7065, 9203, 12420, 15003, 16003, 17004, 19022, 19840],
+      "value":[
+        { "title": "健康评估人数", "value": 52014 },
+        { "title": "健康指导人数", "value": 23123 },
+        { "title": "健康签约人数", "value": 23123 },
+        { "title": "健康指促进率", "value": "54%" }
+      ]
+    },
+    "Community":{
+      "title":"太阳谷社区居民健康指数",
+      "value":[
+        { "name": "保持运动", "value": 21 },
+        { "name": "文娱活动", "value": 36 },
+        { "name": "心理健康", "value": 99 },
+        { "name": "科学生活", "value": 82 },
+        { "name": "合理膳食", "value": 10 }
+      ]
+    },
+    "ActivityPanel":{
+      "title":"活动面板",
+      "tip":"全年共累计活动参加人数",
+      "total":2488,
+      "value":[
+        { "name": "主题活动类", "value": 8 },
+        { "name": "形体舞蹈类", "value": 11 },
+        { "name": "益智棋牌类", "value": 12 },
+        { "name": "健康讲座类", "value": 32 },
+        { "name": "手工艺术类", "value": 11 },
+        { "name": "T11美食类", "value": 25 },
+        { "name": "声乐影视类", "value": 11 },
+        { "name": "健身运动类", "value": 23 },
+        { "name": "其他类", "value": 38 }
+      ]
+    },
+    "WisdomPanel":{
+      "title":"智慧面板",
+      "tip":"全年共累计技术支持人数",
+      "total":23123,
+      "list":[3000, 4000, 5000, 6000, 7065, 9203, 12420, 15003, 16003, 17004, 19022, 19840],
+      "value":[
+        { "title": "技术覆盖率", "value": "64%" },
+        { "title": "平台版本号", "value": "0.2.1" },
+        { "title": "平台日点击次数", "value": 3504 },
+        { "title": "平台日信息发布次数", "value": 150 },
+        { "title": "平台日活跃次数", "value": 1574 }
+      ]
+    },
+    "Ranking":{
+      "title":"TOP10太阳谷大健康生活社区健康排行榜",
+      "value":[
+        { "name": "陈*", "body": "优", "dietary": "优", "movement": "优", "score": 100 },
+        { "name": "王*", "body": "优", "dietary": "优", "movement": "优", "score": 100  },
+        { "name": "赵*","body": "优", "dietary": "优", "movement": "优", "score": 100  },
+        { "name": "钱*", "body": "优", "dietary": "优", "movement": "优", "score": 100  },
+        { "name": "孙*", "body": "优", "dietary": "优", "movement": "优", "score": 100  }
+      ]
+    },
+    "ServicePanel":{
+      "title":"服务面板",
+      "tip":"共累计大健康会员人数",
+      "total":23123,
+      "value":[
+        { "title": "活动邀约", "value": 333 },
+        { "title": "图书借阅", "value": 210 },
+        { "title": "公众号推文", "value": 3504 },
+        { "title": "接待来访", "value": 150 },
+        { "title": "场地预约", "value": 1574 },
+        { "title": "回访业主", "value": 1574 },
+        { "title": "试住体验", "value": 333 },
+        { "title": "体检预约", "value": 294 },
+        { "title": "消息推送", "value": 294 }
+      ]
+    }
+  }
+}

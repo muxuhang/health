@@ -1,0 +1,30 @@
+{
+  "data":{
+    "title":"膳食评估",
+    "Food":{
+      "name":"食物结构",
+      "list":[
+        { "name": "谷类", "value": 33.33 },
+        { "name": "肉类", "value": 73.33 },
+        { "name": "蔬菜", "value": 0 },
+        { "name": "乳类", "value": -16.67 },
+        { "name": "水果", "value": 0 },
+        { "name": "大豆类", "value": 600 },
+        { "name": "蛋类", "value": 0 },
+        { "name": "烹调油", "value": 60 },
+        { "name": "水产类", "value": 33.33 },
+        { "name": "食盐", "value": 0 }
+      ]
+    },
+    "Nutrition":{
+      "name":"营养摄取",
+      "otherValue":"12578",
+      "otherName":"能量摄入",
+      "list":[
+        { "name": "蛋白质", "value": 53 },
+        { "name": "脂肪", "value": 21 },
+        { "name": "碳水化合物", "value": 26 }
+      ]
+    }
+  }
+}

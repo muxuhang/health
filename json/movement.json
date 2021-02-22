@@ -1,0 +1,51 @@
+{
+  "data":{
+    "title":"运动评估",
+    "Movement":{
+      "name":"运动结构",
+      "tip":"参数请写数字，百分比在代码中添加",
+      "work":{
+        "title":"工作",
+        "list":[
+          {"title":"重体力劳动","value":12.03},
+          {"title":"中体力劳动","value":0.00},
+          {"title":"轻体力劳动","value":0.00}
+        ]
+      },
+      "recreation":{
+        "title":"娱乐",
+        "list":[
+          {"title":"重体力劳动","value":33.33},
+          {"title":"中体力劳动","value":0.00},
+          {"title":"轻体力劳动","value":0.00}
+        ]
+      },
+      "householdjobs":{
+        "title":"家务",
+        "list":[
+          {"title":"重体力劳动","value":33.33},
+          {"title":"中体力劳动","value":0.00}
+        ]
+      },
+      "traffic":{
+        "title":"交通",
+        "list":[
+          {"title":"步行","value":33.33},
+          {"title":"骑行","value":0.00}
+        ]
+      }
+    },
+    "Project":{
+      "name":"运动总项目",
+      "otherValue":"308",
+      "otherName":"运动总项天数",
+      "list":[
+        { "name": "工作", "value": 5 },
+        { "name": "交通", "value": 30 },
+        { "name": "家务", "value": 5 },
+        { "name": "娱乐", "value": 20 },
+        { "name": "需求运动", "value": 40 }
+      ]
+    }
+  }
+}

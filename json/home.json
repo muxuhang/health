@@ -1,0 +1,27 @@
+{
+  "data":{
+    "BMI":{"name":"BMI","value":28},
+    "BloodSugar":{"name":"血糖","value":4.2},
+    "Cholesterol":{"name":"总胆固醇","value":4.81},
+    "BloodPressure":{
+      "name":"血压",
+      "value":{
+        "shrinkage":{"name":"收缩压","value":120},
+        "diastolic":{"name":"舒张压","value":96}
+      }
+    },
+    "Physical":{
+      "name":"体适能评估",
+      "tip":"星级1-6",
+      "value":{
+        "UpperLimb":{"name":"上肢肌力","value":4},
+        "LowerLimb":{"name":"下肢肌力","value":2},
+        "Balance":{"name":"平衡能力","value":4},
+        "Cardiopulmonary":{"name":"心肺耐力","value":4},
+        "Flexible":{"name":"下肢柔韧度","value":4},
+        "Agile":{"name":"敏捷反应能力","value":6}
+      }
+    },
+    "UricAcid":{"name":"尿酸","value":0.32}
+  }
+}
